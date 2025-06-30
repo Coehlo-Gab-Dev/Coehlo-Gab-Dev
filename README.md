@@ -88,7 +88,7 @@ Me chamo Gabriel Coelho Sousa, tenho 22 anos e sou natural de São Paulo. Atualm
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=Coehlo-Gab-Dev&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
@@ -96,7 +96,7 @@ Me chamo Gabriel Coelho Sousa, tenho 22 anos e sou natural de São Paulo. Atualm
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coehlo-Gab-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coehlo-Gab-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
