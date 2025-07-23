@@ -7,6 +7,9 @@ Atuo como desenvolvedor Back-End com foco em Node.js e integração de APIs púb
 
 Recentemen fui aprovado no **Bootcamp Santander – Trilha Back-End com Python** e participei da **Formação Trilhas 2B** como aluno da trilha Back-End. Tenho como objetivo construir soluções que conectem tecnologia a impacto social.
 
+
+### 🧠 Confira meu portfólio completo com projetos e trajetória em:  
+  🔗 **[Gabriel_Coelho.dev](https://portifolio-xi-ecru.vercel.app/)**
 ---
 
 ### 🚀 Projetos em Destaque
