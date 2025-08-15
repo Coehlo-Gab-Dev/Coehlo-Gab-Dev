@@ -14,8 +14,8 @@ Recentemen fui aprovado no **Bootcamp Santander – Trilha Back-End com Python**
 
 ### 🚀 Projetos em Destaque
 
-- 🔎 [BuscaSUS](https://github.com/Coehlo-Gab-Dev/Desafio-05-Back-End) – Integração com APIs públicas + Google Maps para localizar serviços de saúde.
-- 📘 [Planner de Estudos](https://github.com/Coehlo-Gab-Dev/Planer-de-Estudos-) – Organização acadêmica e profissional via Notion e automações.
+- 🔎 [BuscaSUS](https://github.com/Coelho-G-Dev/Desafio-05-Back-End) – Integração com APIs públicas + Google Maps para localizar serviços de saúde.
+- 📘 [Planner de Estudos](https://github.com/Coelho-G-Dev/Planer-de-Estudos-) – Organização acadêmica e profissional via Notion e automações.
 
 ---
 
@@ -43,12 +43,12 @@ Recentemen fui aprovado no **Bootcamp Santander – Trilha Back-End com Python**
 
 ### 📊 Estatísticas GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Coehlo-Gab-Dev&show_icons=true&theme=tokyonight&include_all_commits=true)  
-![Top Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=Coehlo-Gab-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Coelho-G-Dev&show_icons=true&theme=tokyonight&include_all_commits=true)  
+![Top Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=Coelho-G-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
 
 ---
 
 ### 🌐 Conecte-se
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Coelho%20Sousa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-coelho-7184a32a3)  
-[![GitHub](https://img.shields.io/badge/GitHub-Coehlo--Gab--Dev-181717?style=for-the-badge&logo=github)](https://github.com/Coehlo-Gab-Dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Coelho--G--Dev-181717?style=for-the-badge&logo=github)](https://github.com/Coelho-G-Dev)
